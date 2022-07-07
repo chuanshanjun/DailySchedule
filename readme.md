@@ -39,3 +39,7 @@ geometry = { path = "crates/geometry" } // 来源于本地
         ```Rust
         println!("{}, {}cm", name, length);
         ```
+        
+## Day 02 
+* 阅读完 《Rust圣经》 2.1 并完成练习
+* 完成 learn_rust_rustlings intro 与 variables 的练习
